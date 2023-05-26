@@ -1,0 +1,57 @@
+{
+    "image1": {
+        "data": "hwQPABAAAAAAAP///wAAAAD/z/z/j/gPAP///O6PiP/w////To/o//D/zP/v7v4P8P/P/xvkdw/w/////+R3D/DP/+5O5GT/8P/87070b/8A/8/////x/wDwz///8P8PAAD//w//DwAAAPAPAP//AAAAAAAA8AAAAAAAAADwAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "我的影像"
+    },
+    "image3": {
+        "data": "hwQNABAAAAAAAP///wAAAAD/z/z/j/j/AP///O6PiP/w////To+ID/D/zP/v7v4P8P/P/xvkZw/w/////+Rk//DP/+5O5PT/8P/870709A8A/8//////DwDwz///APAPAAD//w8AAAAAAPAPAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "我的影像1"
+    },
+    "image4": {
+        "data": "hwQNABAAAAAAAP///wAAAAD/z/z/j/gPAP///O6PiP/w////To+I//D/zP/v7v4P8P/P/xvkZ//w/////+Rk//DP/+5O5PQP8P/870709A8A/8//////DwDwz///APAPAAD//w8AAAAAAPAPAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "我的影像2"
+    },
+    "image2": {
+        "data": "hwQNABAAAAAAAPAPAAAAAAAA//8PAAAAAPDP//8A8A8A/8//////D/D//O9O9PQP8M//7k7k9A/w/////+Rk//D/z/8b5Gf/8P/M/+/u/g/w////To+I/wD///zuj4j/AP/P/P+P+A8AAP///wAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "我的影像0"
+    },
+    "image5": {
+        "data": "hwQNABAAAAAAAPAPAAAAAAAA//8PAAAAAPDP//8A8A8A/8//////D/D//O9O9PQP8M//7k7k9P/w/////+Rk//D/z/8b5GcP8P/M/+/u/g/w////To+IDwD///zuj4j/AP/P/P+P+P8AAP///wAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "我的影像3"
+    },
+    "image6": {
+        "data": "hwQPABAAAAAAAAAAAPAAAAAAAAAA8AAAAADwDwD//wAAAP//D/8PAADwz///8P8PAP/P////8f/w//zvTvRv//DP/+5O5GT/8P/////kdw/w/8//G+R3D/D/zP/v7v4P8P///06P6P8A///87o+I/wD/z/z/j/gPAAD///8AAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "我的影像4"
+    },
+    "image8": {
+        "data": "hwQPABAAAAAAAP///wAAAAD/z/z/j/gPAP///O6PiP/w////To/o//D/zP/v7v4P8P/P/xvkdw/w/////+R3D/DP/+5O5GT/8P/87070b/8A/8/////x/wDwz///8P8PAAD//w//DwAAAPAPAP//AAAAAAAA8AAAAAAAAADwAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "我的影像6"
+    },
+    "image9": {
+        "data": "hwQPABAAAAAAAP///wAAAAD/z/z/j/gPAP///O6PiP/w////To/o//D/zP/v7v4P8P/P/xvkdw/w/////+R3D/DP/+5O5GT/8P/87070b/8A/8/////x/wDwz///8P8PAAD//w//DwAAAPAPAP//AAAAAAAA8AAAAAAAAADwAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "我的影像7"
+    },
+    "image10": {
+        "data": "hwQQABAAAABVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "我的影像8"
+    },
+    "image7": {
+        "data": "hwQMAAwAAAAAAAAAAAAAAAAAoAAAAAAAADCjMwAAAAAAQ+5OAwAAAADjAO4DAAAAoKoArqoAAAAA4wDuAwAAAABD7k4DAAAAADCjMwAAAAAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "我的影像5"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
